@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\PROG\App\DLL\RevitAPI_SetPipeWallThickness.dll"</Assembly>
+		<AddInId>A15E9CF1-3C0B-468C-BC14-35F1C2647799</AddInId>
+		<FullClassName>RevitAPI_SetPipeWallThickness.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Заполнение параметра "BDS_Толщина стенки"</Text>
+	</AddIn>
+</RevitAddIns>
